@@ -1,4 +1,4 @@
-# Sit-On-Chair
+# Sit on Chair
 
 > A website created during bootcamp workshops.
 
